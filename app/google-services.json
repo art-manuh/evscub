@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403972411994",
+    "project_id": "evs-cub",
+    "storage_bucket": "evs-cub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403972411994:android:1ebc7c5696cbe903c53e63",
+        "android_client_info": {
+          "package_name": "com.example.evscub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403972411994-e9r50pucjl0c0tdc8vnf2trfh6t7n4ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD57KWYbHKq9IBhsLo2ilSf_9aItRVCG5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403972411994-e9r50pucjl0c0tdc8vnf2trfh6t7n4ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
